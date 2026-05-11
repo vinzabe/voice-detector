@@ -2,7 +2,7 @@
 
 ## Reporting
 
-Report vulnerabilities responsibly to the repository owner by email -- do not open public issues.
+Report vulnerabilities responsibly to the repository owner by email to **g@abejar.net** -- do not open public issues.
 
 ## Defensive use only
 
